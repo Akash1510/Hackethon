@@ -1,0 +1,15 @@
+@keyframes cardGradient {
+  0% {
+    background-color: #fef9c3;
+  }
+  50% {
+    background-color: #c7f9cc;
+  }
+  100% {
+    background-color: #fef9c3;
+  }
+}
+
+.animate-card {
+  animation: cardGradient 4s ease infinite;
+}
