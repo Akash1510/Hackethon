@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/UST_Hackethon/static/css/main.92fa8b90.css",
-    "main.js": "/UST_Hackethon/static/js/main.95e70886.js",
+    "main.js": "/UST_Hackethon/static/js/main.3dda8bc6.js",
     "static/media/languages.png": "/UST_Hackethon/static/media/languages.781d0288b011bfddc45a.png",
     "static/media/magnifying-glass.png": "/UST_Hackethon/static/media/magnifying-glass.0cfb1c58c717bdf7fd2b.png",
     "static/media/phone-call.png": "/UST_Hackethon/static/media/phone-call.1dbfb7b25cc390268ca6.png",
     "static/media/upload-file.png": "/UST_Hackethon/static/media/upload-file.58b6fc2449fd3efd521e.png",
     "index.html": "/UST_Hackethon/index.html",
     "main.92fa8b90.css.map": "/UST_Hackethon/static/css/main.92fa8b90.css.map",
-    "main.95e70886.js.map": "/UST_Hackethon/static/js/main.95e70886.js.map"
+    "main.3dda8bc6.js.map": "/UST_Hackethon/static/js/main.3dda8bc6.js.map"
   },
   "entrypoints": [
     "static/css/main.92fa8b90.css",
-    "static/js/main.95e70886.js"
+    "static/js/main.3dda8bc6.js"
   ]
 }
