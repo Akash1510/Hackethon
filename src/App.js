@@ -7,7 +7,7 @@ function App() {
   return (
     <>
 
-      <Router basename="/UST_Hackethon">
+      <Router basename="/Hackethon">
 
         <Routes>
           <Route exact path="/" element={<NavBar />} />
